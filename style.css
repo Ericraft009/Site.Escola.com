@@ -1,3 +1,10 @@
+.navbar-inverse
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
 .travel_mainDiv
 {
     border: 1px soild lightgrey;
